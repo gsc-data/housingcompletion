@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gsc-data/housingcompletion/static/css/main.dc6b3d9c.chunk.css",
-    "main.js": "/gsc-data/housingcompletion/static/js/main.38ae2496.chunk.js",
-    "main.js.map": "/gsc-data/housingcompletion/static/js/main.38ae2496.chunk.js.map",
+    "main.js": "/gsc-data/housingcompletion/static/js/main.e68e7c8a.chunk.js",
+    "main.js.map": "/gsc-data/housingcompletion/static/js/main.e68e7c8a.chunk.js.map",
     "runtime-main.js": "/gsc-data/housingcompletion/static/js/runtime-main.7f42912e.js",
     "runtime-main.js.map": "/gsc-data/housingcompletion/static/js/runtime-main.7f42912e.js.map",
     "static/js/2.2533d693.chunk.js": "/gsc-data/housingcompletion/static/js/2.2533d693.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7f42912e.js",
     "static/js/2.2533d693.chunk.js",
     "static/css/main.dc6b3d9c.chunk.css",
-    "static/js/main.38ae2496.chunk.js"
+    "static/js/main.e68e7c8a.chunk.js"
   ]
 }
